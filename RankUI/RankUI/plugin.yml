@@ -1,0 +1,9 @@
+name: RankUP
+main:  NotBellwa\RankUI\main
+version: 0.1.0
+api: 3.14.1
+description: "A Rankup command"
+author: "NotBellwa"
+commands:
+  rankup:
+    description: "Rankup to the next rank!"
